@@ -132,5 +132,13 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dinesh Panthi received his master’s degree in pure mathematics in 1992 from Central Department of Mathematics, Tribhuvan University, Nepal.  After completion of his master’s degree, he was engaged in teaching in a affiliated college of Tribhuvan University. In 1994, he was appointed as permanent lecturer of mathematics in Nepal Sanskrit University.
+
+He received M.Phil. degree from Kathmandu University in 2009.  In 2013, He completed his Ph.D. degree in the field of fixed point theory under supervision of Prof. Dr. Kanhaiya Jha from Kathmandu University, Nepal.
+
+Currently, Dr. Panthi is working as Associate Professor of Mathematics in Department of Mathematics, Valmeeki Campus, Nepal Sanskrit University. He has been supervising and has been as subject experts of half a dozen PhD students from Nepal Sanskrit University.
+
+Dr. Panthi has published more than three dozen research articles from reputed International journals and some books from International Publishers.  He has organized  national conference of mathematics and has been as organizing committee members of different international conferences, workshops and seminars. He has been reviewers, managing editor of journal and  chief in editors of  proceedings of national conferences. He is life members of  some organizations like Nepal Mathematical Society, Nepal Red cross Society, Mathematical Sciences Trust, Nepal and Nepal Scout.
+
+He has delivered his research talks in international mathematical conferences held in Nepal, India, Pakistan, Thailand, Indonesia, Turkey and Australia
 {style="text-align: justify;"}
