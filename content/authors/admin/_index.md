@@ -47,7 +47,7 @@ education:
       year: 1992
     - course: Bachelor of Education in Mathematics
       institution: Tribhuwan University, Kathmandu Kshiksha Campus      
-	  year: 1998
+      year: 1998
     - course: Bachelor of Arts in Mathematics
       institution: Tribhuwan University, Patan Multiple Campus
       year: 1988
