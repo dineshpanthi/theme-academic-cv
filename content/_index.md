@@ -65,14 +65,12 @@ sections:
         - title: Professor of Mathematics
           company: Nepal Sanskrit University
           company_url: 'https://nsu.edu.np/'
-          company_logo: org-nsu
           location: Dang
           date_start: '1998-01-01'
           date_end: ''
         - title: Visiting Faculty
           company: School of Science and School of Engineering, Kathmandu University, Dhulikhel, Nepal
           company_url: 'https://ku.edu.np/'
-          company_logo: org-ku
           location: Dhulikhel Kathmandu
           date_start: '2011-01-01'
           date_end: '2014-12-31'
