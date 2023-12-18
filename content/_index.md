@@ -65,39 +65,52 @@ sections:
         - title: Professor of Mathematics
           company: Nepal Sanskrit University
           company_url: 'https://nsu.edu.np/'
-          location: Dang
+          location: Valmeeki Campus, Kathmandu
           date_start: '1998-01-01'
           date_end: ''
         - title: Visiting Faculty
           company: School of Science and School of Engineering, Kathmandu University, Dhulikhel, Nepal
           company_url: 'https://ku.edu.np/'
-          location: Dhulikhel Kathmandu
+          location: Dhulikhel
           date_start: '2011-01-01'
           date_end: '2014-12-31'
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Campus Chief
+          company: Harihar Sanskrit Vidyapeeth, Nepal Sanskrit University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.		  
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Arghakhanchi District, Nepal
+          date_start: '2000-01-01'
+          date_end: '2002-12-31'
+        - title: Campus Chief
+          company: Gupteshwor Multiple Campus, Tribhuvan University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Parbat District, Nepal
+          date_start: '1996-01-01'
+          date_end: '1998-12-31'
+        - title: Lecturer
+          company: Harihar Sanskrit Vidyapeeth, Nepal Sanskrit University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.	  
+          location: Parbat District, Nepal
+          date_start: '1994-01-01'
+          date_end: '1999-12-31'
+        - title: Lecturer
+          company: Gupteshwor Multiple Campus, Tribhuvan University
+          company_url: ''
+          location: Parbat District, Nepal
+          date_start: '1994-01-01'
+          date_end: '1995-12-31'
+        - title: Head of Department of Mathematics
+          company: Gyan Mandir English High School
+          company_url: ''
+          location: Balazu, Kathmandu
+          date_start: '1989-01-01'
+          date_end: '1991-12-31'
+        - title: Teacher
+          company: Siddhartha Vanasthali High School
+          company_url: ''
+          location: Kathmandu, Nepal
+          date_start: '1985-01-01'
+          date_end: '1987-12-31'
+          description: Taught mathematics.
     design:
       columns: '2'
   - block: accomplishments
