@@ -66,7 +66,7 @@ sections:
           company: Nepal Sanskrit University
           company_url: 'https://nsu.edu.np/'
           location: Valmeeki Campus, Kathmandu
-          date_start: '1998-01-01'
+          date_start: '1998'
           date_end: ''
         - title: Visiting Faculty
           company: School of Science and School of Engineering, Kathmandu University, Dhulikhel, Nepal
