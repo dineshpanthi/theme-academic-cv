@@ -62,19 +62,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Professor of Mathematics
+          company: Nepal Sanskrit University
+          company_url: 'https://nsu.edu.np/'
+          company_logo: org-nsu
+          location: Dang
+          date_start: '1998-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Visiting Faculty
+          company: School of Science and School of Engineering, Kathmandu University, Dhulikhel, Nepal
+          company_url: 'https://ku.edu.np/'
+          company_logo: org-ku
+          location: Dhulikhel Kathmandu
+          date_start: '2011-01-01'
+          date_end: '2014-12-31'
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.		  
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -83,6 +92,14 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.	  
     design:
       columns: '2'
   - block: accomplishments
