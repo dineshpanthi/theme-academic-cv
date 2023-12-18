@@ -36,15 +36,27 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Mathematics
+      institution: Kathmandu University, School of Science
+      year: 2013
+    - course: M. Phil. in Mathematics
+      institution: Kathmandu University, School of Science
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters of Arts in Mathematics
+      institution: Tribhuwan University, Central Department of Mathematics
+      year: 1992
+    - course: Bachelor of Education in Mathematics
+      institution: Tribhuwan University, Kathmandu Kshiksha Campus      
+	  year: 1998
+    - course: Bachelor of Arts in Mathematics
+      institution: Tribhuwan University, Patan Multiple Campus
+      year: 1988
+    - course: Intermediate in Science
+      institution: Adarsh Sewa Inter College, Varanasi, (Board of Higher Secondary and Intermediate Education Illahabad, U.P.) India
+      year: 1984
+    - course: Matriculation (S.L.C.)
+      institution: Tauleshwar Nath Sanskrit Madhyamik Vidyalaya, Kapilvastu, Taulihawa
+      year: 1981	  
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
